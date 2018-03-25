@@ -1,0 +1,36 @@
+{
+	"currency": "PHP",
+    "total": "",
+    "payment_method": "",
+    "payment_provider": "",
+    "shipment": "",
+    "buyer_name": "",
+    "pickup_address": { 
+			    "name": "",
+			    "mobile_number": "",
+			    "line_1": "",
+			    "city": "",
+			    "state": "",
+			    "postal_code": "",
+			    "country": "PH",
+			  },
+    "delivery_address": {
+			    "name": "",
+			    "mobile_number": "",
+			    "line_1": "",
+			    "city": "",
+			    "state": "",
+			    "postal_code": "",
+			    "country": "PH",
+			  },
+    "contact_number": "", //buyer
+    "items": [
+    		 	{
+					"type": "product",
+					"description": "",
+					"price": "2000",
+					"quantity": "2",
+    		 	}
+    		]
+}
+
