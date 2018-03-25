@@ -1,5 +1,5 @@
 {
-	"currency": "PHP",
+    "currency": "PHP",
     "total": "",
     "payment_method": "",
     "payment_provider": "",
@@ -23,7 +23,7 @@
 			    "postal_code": "",
 			    "country": "PH",
 			  },
-    "contact_number": "", //buyer
+    "contact_number": "",
     "items": [
     		 	{
 					"type": "product",
